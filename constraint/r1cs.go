@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/logger"
 )
 
 type R1CS interface {
