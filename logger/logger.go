@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/curvepp/gnark/debug"
+	"github.com/xingzwh/gnark/debug"
 	"github.com/rs/zerolog"
 )
 
