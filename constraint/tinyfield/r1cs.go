@@ -35,7 +35,7 @@ import (
 	"github.com/consensys/gnark-crypto/ecc"
 	"math"
 
-	fr "github.com/consensys/gnark/internal/tinyfield"
+	fr "github.com/xingzwh/gnark/curvepp/tinyfield"
 )
 
 // R1CS describes a set of R1CS constraint
