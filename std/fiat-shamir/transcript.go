@@ -18,9 +18,9 @@ package fiatshamir
 
 import (
 	"errors"
-	"github.com/consensys/gnark/constant"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/hash"
+	"github.com/xingzwh/gnark/constant"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/hash"
 )
 
 // errChallengeNotFound is returned when a wrong challenge name is provided.
