@@ -3,7 +3,7 @@ package constraint
 import (
 	"math/big"
 
-	"github.com/consensys/gnark/backend/hint"
+	"github.com/xingzwh/gnark/backend/hint"
 )
 
 const CommitmentDst = "bsb22-commitment"
