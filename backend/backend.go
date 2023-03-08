@@ -16,8 +16,8 @@
 package backend
 
 import (
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/logger"
 	"github.com/rs/zerolog"
 )
 
