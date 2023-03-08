@@ -22,7 +22,7 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bls12-381/fr/fft"
 	"github.com/consensys/gnark-crypto/ecc/bls12-381/fr/iop"
 	"github.com/consensys/gnark-crypto/ecc/bls12-381/fr/kzg"
-	"github.com/consensys/gnark/constraint/bls12-381"
+	"github.com/xingzwh/gnark/constraint/bls12-381"
 
 	kzgg "github.com/consensys/gnark-crypto/kzg"
 )
