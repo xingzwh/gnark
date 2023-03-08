@@ -3,11 +3,11 @@ package std
 import (
 	"sync"
 
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/std/algebra/sw_bls12377"
-	"github.com/consensys/gnark/std/algebra/sw_bls24315"
-	"github.com/consensys/gnark/std/math/bits"
-	"github.com/consensys/gnark/std/math/emulated"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/std/algebra/sw_bls12377"
+	"github.com/xingzwh/gnark/std/algebra/sw_bls24315"
+	"github.com/xingzwh/gnark/std/math/bits"
+	"github.com/xingzwh/gnark/std/math/emulated"
 )
 
 var registerOnce sync.Once
