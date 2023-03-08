@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/internal/utils"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/curvepp/utils"
 )
 
 // Element defines an element in the ring of integers modulo n. The integer
