@@ -14,9 +14,9 @@ https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm
 package ecdsa
 
 import (
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/algebra/weierstrass"
-	"github.com/consensys/gnark/std/math/emulated"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/algebra/weierstrass"
+	"github.com/xingzwh/gnark/std/math/emulated"
 )
 
 // Signature represents the signature for some message.
