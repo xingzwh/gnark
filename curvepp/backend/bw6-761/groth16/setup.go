@@ -22,8 +22,8 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr"
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr/fft"
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr/pedersen"
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/constraint/bw6-761"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/constraint/bw6-761"
 	"math/big"
 	"math/bits"
 )
