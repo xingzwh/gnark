@@ -4,14 +4,14 @@ import (
 	"math"
 	"sync"
 
-	"github.com/consensys/gnark"
+	"github.com/xingzwh/gnark"
 	"github.com/consensys/gnark-crypto/ecc"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/algebra/sw_bls12377"
-	"github.com/consensys/gnark/std/algebra/sw_bls24315"
-	"github.com/consensys/gnark/std/hash/mimc"
-	"github.com/consensys/gnark/std/math/bits"
-	"github.com/consensys/gnark/std/math/emulated"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/algebra/sw_bls12377"
+	"github.com/xingzwh/gnark/std/algebra/sw_bls24315"
+	"github.com/xingzwh/gnark/std/hash/mimc"
+	"github.com/xingzwh/gnark/std/math/bits"
+	"github.com/xingzwh/gnark/std/math/emulated"
 )
 
 var (
