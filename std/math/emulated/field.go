@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/logger"
 	"github.com/rs/zerolog"
 	"golang.org/x/exp/constraints"
 )
