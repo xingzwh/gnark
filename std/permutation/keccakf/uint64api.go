@@ -1,8 +1,8 @@
 package keccakf
 
 import (
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/math/bits"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/math/bits"
 )
 
 // uint64api performs binary operations on xuint64 variables. In the
