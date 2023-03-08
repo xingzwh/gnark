@@ -19,11 +19,11 @@ package r1cs
 import (
 	"math/big"
 
-	"github.com/consensys/gnark/debug"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/frontend/internal/expr"
-	"github.com/consensys/gnark/internal/utils"
-	"github.com/consensys/gnark/std/math/bits"
+	"github.com/xingzwh/gnark/debug"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend/internal/expr"
+	"github.com/xingzwh/gnark/curvepp/utils"
+	"github.com/xingzwh/gnark/std/math/bits"
 )
 
 // AssertIsEqual adds an assertion in the constraint builder (i1 == i2)
