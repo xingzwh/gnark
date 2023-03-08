@@ -6,10 +6,10 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/debug"
-	"github.com/consensys/gnark/frontend/schema"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/debug"
+	"github.com/xingzwh/gnark/frontend/schema"
+	"github.com/xingzwh/gnark/logger"
 )
 
 // Compile will generate a ConstraintSystem from the given circuit
