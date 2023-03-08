@@ -33,7 +33,7 @@ import (
 
 	"github.com/consensys/gnark-crypto/ecc"
 	"github.com/consensys/gnark-crypto/fiat-shamir"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/logger"
 )
 
 var (
