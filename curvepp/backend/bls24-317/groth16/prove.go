@@ -23,7 +23,7 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bls24-317/fr"
 	"github.com/consensys/gnark-crypto/ecc/bls24-317/fr/fft"
 	"github.com/xingzwh/gnark/backend"
-	"github.com/v/gnark/constraint/bls24-317"
+	"github.com/xingzwh/gnark/constraint/bls24-317"
 	"github.com/xingzwh/gnark/curvepp/utils"
 	"github.com/xingzwh/gnark/logger"
 	"math/big"
