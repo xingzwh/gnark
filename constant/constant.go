@@ -26,7 +26,7 @@ import (
 	bn254 "github.com/consensys/gnark-crypto/ecc/bn254/fr"
 	bw6_633 "github.com/consensys/gnark-crypto/ecc/bw6-633/fr"
 	bw6_761 "github.com/consensys/gnark-crypto/ecc/bw6-761/fr"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend"
 	"math/big"
 )
 
