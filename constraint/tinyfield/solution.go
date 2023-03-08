@@ -28,7 +28,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	fr "github.com/consensys/gnark/internal/tinyfield"
+	fr "github.com/xingzwh/gnark/curvepp/tinyfield"
 )
 
 // solution represents elements needed to compute
