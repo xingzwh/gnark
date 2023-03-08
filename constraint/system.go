@@ -6,15 +6,15 @@ import (
 	"math/big"
 
 	"github.com/blang/semver/v4"
-	"github.com/consensys/gnark"
+	"github.com/xingzwh/gnark"
 	"github.com/consensys/gnark-crypto/ecc"
-	"github.com/consensys/gnark/backend"
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/backend/witness"
-	"github.com/consensys/gnark/debug"
-	"github.com/consensys/gnark/internal/tinyfield"
-	"github.com/consensys/gnark/internal/utils"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/backend"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/backend/witness"
+	"github.com/xingzwh/gnark/debug"
+	"github.com/xingzwh/gnark/curvepp/tinyfield"
+	"github.com/xingzwh/gnark/curvepp/utils"
+	"github.com/xingzwh/gnark/logger"
 )
 
 // ConstraintSystem interface that all constraint systems implement.
