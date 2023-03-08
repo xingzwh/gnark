@@ -4,8 +4,8 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 // NTrits returns the first trits of the input. The number of returned trits is
