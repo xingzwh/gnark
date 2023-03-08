@@ -22,8 +22,8 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr"
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/fft"
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/pedersen"
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/constraint/bn254"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/constraint/bn254"
 	"math/big"
 	"math/bits"
 )
