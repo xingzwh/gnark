@@ -21,7 +21,7 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr"
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr/fft"
 	"github.com/consensys/gnark-crypto/ecc/bw6-761/fr/fri"
-	"github.com/consensys/gnark/constraint/bw6-761"
+	"github.com/xingzwh/gnark/constraint/bw6-761"
 )
 
 // ProvingKey stores the data needed to generate a proof:
