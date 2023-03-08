@@ -1,7 +1,7 @@
 package constraint
 
 import (
-	"github.com/consensys/gnark/backend/hint"
+	"github.com/xingzwh/gnark/backend/hint"
 )
 
 // Hint represents a solver hint
