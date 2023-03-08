@@ -17,8 +17,8 @@
 package cs
 
 import (
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/internal/utils"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/curvepp/utils"
 	"math/big"
 
 	fr "github.com/consensys/gnark/internal/tinyfield"
