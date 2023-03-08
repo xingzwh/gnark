@@ -32,12 +32,12 @@ import (
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/fft"
 
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr/iop"
-	"github.com/consensys/gnark/constraint/bn254"
+	"github.com/xingzwh/gnark/constraint/bn254"
 
 	"github.com/consensys/gnark-crypto/fiat-shamir"
-	"github.com/consensys/gnark/backend"
-	"github.com/consensys/gnark/internal/utils"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/backend"
+	"github.com/xingzwh/gnark/curvepp/utils"
+	"github.com/xingzwh/gnark/logger"
 )
 
 type Proof struct {
