@@ -34,7 +34,7 @@ import (
 	"github.com/xingzwh/gnark/logger"
 	"github.com/xingzwh/gnark/profile"
 
-	fr "github.com/consensys/gnark/internal/tinyfield"
+	fr "github.com/xingzwh/gnark/curvepp/tinyfield"
 )
 
 // SparseR1CS represents a Plonk like circuit
