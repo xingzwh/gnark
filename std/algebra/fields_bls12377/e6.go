@@ -20,8 +20,8 @@ import (
 	"math/big"
 
 	bls12377 "github.com/consensys/gnark-crypto/ecc/bls12-377"
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 // E6 element in a quadratic extension
