@@ -18,9 +18,9 @@ limitations under the License.
 package kzg_bls24315
 
 import (
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/algebra/fields_bls24315"
-	"github.com/consensys/gnark/std/algebra/sw_bls24315"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/algebra/fields_bls24315"
+	"github.com/xingzwh/gnark/std/algebra/sw_bls24315"
 )
 
 // Digest commitment of a polynomial.
