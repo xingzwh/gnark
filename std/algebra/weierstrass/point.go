@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/math/emulated"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/math/emulated"
 )
 
 // New returns a new [Curve] instance over the base field Base and scalar field
