@@ -26,13 +26,13 @@ import (
 
 	"github.com/consensys/gnark-crypto/ecc/bls12-377/fr/fft"
 
-	"github.com/consensys/gnark/constraint/bls12-377"
+	"github.com/xingzwh/gnark/constraint/bls12-377"
 
 	"github.com/consensys/gnark-crypto/ecc/bls12-377/fr/fri"
 
 	fiatshamir "github.com/consensys/gnark-crypto/fiat-shamir"
-	"github.com/consensys/gnark/backend"
-	"github.com/consensys/gnark/internal/utils"
+	"github.com/xingzwh/gnark/backend"
+	"github.com/xingzwh/gnark/curvepp/utils"
 )
 
 type Proof struct {
