@@ -22,7 +22,7 @@ import (
 	"github.com/consensys/gnark-crypto/ecc"
 	curve "github.com/consensys/gnark-crypto/ecc/bls12-381"
 	"github.com/consensys/gnark-crypto/ecc/bls12-381/fr"
-	"github.com/consensys/gnark/logger"
+	"github.com/xingzwh/gnark/logger"
 	"io"
 	"math/big"
 	"time"
