@@ -3,7 +3,7 @@ package weierstrass
 import (
 	"math/big"
 
-	"github.com/consensys/gnark/std/math/emulated"
+	"github.com/xingzwh/gnark/std/math/emulated"
 )
 
 // CurveParams defines parameters of an elliptic curve in short Weierstrass form
