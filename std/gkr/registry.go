@@ -1,6 +1,6 @@
 package gkr
 
-import "github.com/consensys/gnark/frontend"
+import "github.com/xingzwh/gnark/frontend"
 
 var RegisteredGates = map[string]Gate{
 	"identity": IdentityGate{},
