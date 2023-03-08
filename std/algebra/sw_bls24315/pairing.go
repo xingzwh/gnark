@@ -21,8 +21,8 @@ import (
 	"math/big"
 
 	"github.com/consensys/gnark-crypto/ecc"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/std/algebra/fields_bls24315"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/std/algebra/fields_bls24315"
 )
 
 // GT target group of the pairing
