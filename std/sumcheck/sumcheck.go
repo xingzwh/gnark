@@ -2,9 +2,9 @@ package sumcheck
 
 import (
 	"fmt"
-	"github.com/consensys/gnark/frontend"
-	fiatshamir "github.com/consensys/gnark/std/fiat-shamir"
-	"github.com/consensys/gnark/std/polynomial"
+	"github.com/xingzwh/gnark/frontend"
+	fiatshamir "github.com/xingzwh/gnark/std/fiat-shamir"
+	"github.com/xingzwh/gnark/std/polynomial"
 	"strconv"
 )
 
