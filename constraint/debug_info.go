@@ -3,7 +3,7 @@ package constraint
 import (
 	"strings"
 
-	"github.com/consensys/gnark/internal/utils"
+	"github.com/xingzwh/gnark/curvepp/utils"
 )
 
 type DebugInfo LogEntry
