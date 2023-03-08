@@ -17,8 +17,8 @@
 package cs
 
 import (
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/internal/utils"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/curvepp/utils"
 	"math/big"
 
 	"github.com/consensys/gnark-crypto/ecc/bw6-633/fr"
