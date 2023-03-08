@@ -21,7 +21,7 @@ import (
 	"github.com/xingzwh/gnark/curvepp/utils"
 	"math/big"
 
-	fr "github.com/consensys/gnark/internal/tinyfield"
+	fr "github.com/xingzwh/gnark/curvepp/tinyfield"
 )
 
 // CoeffTable ensure we store unique coefficients in the constraint system
