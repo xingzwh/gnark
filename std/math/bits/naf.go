@@ -4,8 +4,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 // NNAF returns the NAF decomposition of the input. The number of digits is
