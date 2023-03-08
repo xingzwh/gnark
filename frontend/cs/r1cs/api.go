@@ -25,12 +25,12 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/frontend/internal/expr"
-	"github.com/consensys/gnark/frontend/schema"
-	"github.com/consensys/gnark/std/math/bits"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend/internal/expr"
+	"github.com/xingzwh/gnark/frontend/schema"
+	"github.com/xingzwh/gnark/std/math/bits"
 )
 
 // ---------------------------------------------------------------------------------------------
