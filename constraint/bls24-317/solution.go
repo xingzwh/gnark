@@ -19,9 +19,9 @@ package cs
 import (
 	"errors"
 	"fmt"
-	"github.com/consensys/gnark/backend/hint"
-	"github.com/consensys/gnark/constraint"
-	"github.com/consensys/gnark/debug"
+	"github.com/xingzwh/gnark/backend/hint"
+	"github.com/xingzwh/gnark/constraint"
+	"github.com/xingzwh/gnark/debug"
 	"github.com/rs/zerolog"
 	"math/big"
 	"strconv"
