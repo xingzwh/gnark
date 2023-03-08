@@ -1,7 +1,7 @@
 package expr
 
 import (
-	"github.com/consensys/gnark/constraint"
+	"github.com/xingzwh/gnark/constraint"
 )
 
 // TODO @gbotrel --> storing a UUID in the linear expressions would enable better perf
