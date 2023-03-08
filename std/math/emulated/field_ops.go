@@ -6,7 +6,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 // Div computes a/b and returns it. It uses [DivHint] as a hint function.
