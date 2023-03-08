@@ -11,7 +11,7 @@
 package keccakf
 
 import (
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 var rc = [24]xuint64{
