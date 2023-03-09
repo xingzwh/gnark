@@ -1,8 +1,8 @@
 package circuits
 
 import (
-	"github.com/consensys/gnark"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 type cmpCircuit struct {
