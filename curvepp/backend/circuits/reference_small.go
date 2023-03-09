@@ -3,8 +3,8 @@ package circuits
 import (
 	"math/big"
 
-	"github.com/consensys/gnark"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 const nbConstraintsRefSmall = 5
