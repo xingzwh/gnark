@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/consensys/gnark/backend"
-	"github.com/consensys/gnark/internal/stats"
+	"github.com/xingzwh/gnark/backend"
+	"github.com/xingzwh/gnark/curvepp/stats"
 )
 
 var (
