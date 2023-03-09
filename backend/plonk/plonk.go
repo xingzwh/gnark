@@ -41,7 +41,7 @@ import (
 	plonk_bls24315 "github.com/xingzwh/gnark/curvepp/backend/bls24-315/plonk"
 	plonk_bls24317 "github.com/xingzwh/gnark/curvepp/backend/bls24-317/plonk"
 	plonk_bn254 "github.com/xingzwh/gnark/curvepp/backend/bn254/plonk"
-	plonk_bw6633 "github.com/xingzwh/gnark/cuevepp/backend/bw6-633/plonk"
+	plonk_bw6633 "github.com/xingzwh/gnark/curvepp/backend/bw6-633/plonk"
 	plonk_bw6761 "github.com/xingzwh/gnark/curvepp/backend/bw6-761/plonk"
 
 	fr_bls12377 "github.com/consensys/gnark-crypto/ecc/bls12-377/fr"
