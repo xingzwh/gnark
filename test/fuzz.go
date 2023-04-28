@@ -7,10 +7,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/consensys/gnark"
+	"github.com/xingzwh/gnark"
 	"github.com/consensys/gnark-crypto/ecc"
-	"github.com/consensys/gnark/frontend"
-	"github.com/consensys/gnark/frontend/schema"
+	"github.com/xingzwh/gnark/frontend"
+	"github.com/xingzwh/gnark/frontend/schema"
 )
 
 var seedCorpus []*big.Int
