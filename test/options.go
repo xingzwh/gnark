@@ -18,8 +18,8 @@ package test
 
 import (
 	"github.com/consensys/gnark-crypto/ecc"
-	"github.com/consensys/gnark/backend"
-	"github.com/consensys/gnark/frontend"
+	"github.com/xingzwh/gnark/backend"
+	"github.com/xingzwh/gnark/frontend"
 )
 
 // TestingOption defines option for altering the behaviour of Assert methods.
